@@ -1,1 +1,1 @@
-W02 Assignment: Next.js Application Tutorial
+## Next.js App Router Course - Starter
